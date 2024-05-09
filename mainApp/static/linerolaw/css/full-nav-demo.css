@@ -1,0 +1,118 @@
+/*------------------------------------------------------------------
+[full-nav-demo Stylesheet]
+
+Project:    Lawfirm - Onepage Html Responsive Template
+Version:    1.1
+Last change:    15/05/2017 
+Primary use:    Lawfirm - Onepage Html Responsive Template
+-------------------------------------------------------------------*/
+
+@media (min-width: 1024px) {
+
+
+}
+.full-nav nav.divinnav.navbar-full .navbar-collapse .wrap-full-menu {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.full-nav nav.navbar ul.nav li.scroll.active > a, .full-nav nav.navbar ul.nav > li > a:hover {
+    color: #fff !important;
+    /* background-color: #769122 !important; */
+    background-color: #2a4289!important;
+    border-radius: 25px 0;
+    margin: 5px;
+}
+
+.full-nav .vertical-heading span {
+    color: #769122;
+}
+.full-nav .accordionstyle_1.accordion_2 .panel .panel-heading a, .full-nav .accordionstyle_1.accordion_2 .panel .panel-heading a:hover {
+    /* background-color: #769122; */
+    background-color: rgb(54, 97, 166);
+}
+.full-nav .icon_box3_simple .simple_sub_circle {
+    background: #000;
+}
+.full-nav #about hr {
+    /* background: #769122; */
+    background: rgb(54, 97, 166);
+}
+.full-nav .icon_box3_simple:hover {
+    background: #d5d4d6;
+    color: #000;
+}
+.full-nav .icon_box3_simple:hover h4{
+    color: #000;
+}
+.full-nav .icon_box3_simple:hover .simple_sub_circle {
+    background: #000;
+}
+.full-nav .portfolioTwo .ImageWrapper .ImageOverlay {
+    background: none repeat scroll 0 0 rgba(54, 158, 70, 0.9);
+}
+.full-nav .testimonialEight .item .name {
+    /* color: #769122; */
+    color: rgb(54, 97, 166);
+}
+.full-nav .testimonialEight .carousel .carousel-indicators .active {
+    /* background-color: #769122 !important; */
+    background-color: rgb(54, 97, 166)!important;
+}
+.full-nav .dart-headingstyle-four h5 {
+    /* color: #769122; */
+    color: rgb(54, 97, 166);
+}
+.full-nav .fullWidthNine .feature-wrapper h5 {
+    /* color: #769122; */
+    color: rgb(54, 97, 166);
+}
+.full-nav .fullWidthNine .feature-wrapper:hover i {
+    /* color: #769122; */
+    color: rgb(54, 97, 166);
+}
+.full-nav .tabSix .nav-tabs>li.active>a, .full-nav .tabSix .nav-tabs>li.active>a:focus, .full-nav .tabSix .nav-tabs>li.active>a:hover, .full-nav .tabSix .nav-tabs>li>a:hover {
+    border-color: #769122;
+}
+.full-nav .button-default {
+    /* background: #769122; */
+    background-color: rgb(54, 97, 166);
+}
+.full-nav .counter-section i {
+    /* color: #769122; */
+    color: rgb(54, 97, 166);
+}
+.full-nav .packagestyle_one:hover {
+    /* background: #769122; */
+    background: rgb(54, 97, 166);
+}
+.full-nav .btn-link {
+    /* color: #769122; */
+    color: rgb(54, 97, 166);
+}
+
+
+@media (max-width: 992px){
+.full-nav nav.navbar.divinnav .navbar-nav > li > a {
+    border-bottom: none;
+    border-top: none;
+    margin-bottom: 10px;
+    width: auto;
+    padding: 10px 0;
+    margin-left: 10px;
+    font-size: 24px;
+}
+}
+.full-nav nav.navbar.divinnav .navbar-toggle {
+    /* background-color: #769122; */
+    background-color: rgb(54, 97, 166);
+}
+.full-nav nav.navbar.no-background ul.nav > li > a:hover{
+    /* background-color: #769122 !important; */
+    background-color: rgb(54, 97, 166)!important;
+    border-radius: 10px;
+}
+
+
+
+
+
